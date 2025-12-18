@@ -1,0 +1,113 @@
+
+C:\Users\Gauri\OneDrive\Desktop\GradeManagementSystem\src>javac GradeManagementSystem.java
+
+C:\Users\Gauri\OneDrive\Desktop\GradeManagementSystem\src>java GradeManagementSystem
+
+=== GRADE MANAGEMENT SYSTEM ===
+1. Add Student Marks
+2. View All Students
+3. Calculate Averages & Grades
+4. Find Top Performers
+5. Generate Performance Report
+6. Exit
+Enter your choice: 1
+
+=== ADD STUDENT MARKS ===
+Enter Student Name: alice johnson
+Mathematics: 92
+Science: 88
+English: 95
+History: 78
+Computer: 91
+Student added successfully!
+
+
+=== GRADE MANAGEMENT SYSTEM ===
+1. Add Student Marks
+2. View All Students
+3. Calculate Averages & Grades
+4. Find Top Performers
+5. Generate Performance Report
+6. Exit
+Enter your choice: 1
+
+=== ADD STUDENT MARKS ===
+Enter Student Name: Bob Wilson
+Mathematics: 85
+Science: 76
+English: 82
+History: 90
+Computer: 88
+Student added successfully!
+
+
+=== GRADE MANAGEMENT SYSTEM ===
+1. Add Student Marks
+2. View All Students
+3. Calculate Averages & Grades
+4. Find Top Performers
+5. Generate Performance Report
+6. Exit
+Enter your choice: 2
+
+=== ALL STUDENTS ===
+Name                 Math     Sci      Eng      Hist     Comp     Avg
+--------------------------------------------------------------
+alice johnson        92.00    88.00    95.00    78.00    91.00    88.80
+Bob Wilson           85.00    76.00    82.00    90.00    88.00    84.20
+
+=== GRADE MANAGEMENT SYSTEM ===
+1. Add Student Marks
+2. View All Students
+3. Calculate Averages & Grades
+4. Find Top Performers
+5. Generate Performance Report
+6. Exit
+Enter your choice: 3
+
+=== AVERAGES & GRADES ===
+alice johnson -> Average: 88.80, Grade: B
+Bob Wilson -> Average: 84.20, Grade: B
+
+=== GRADE MANAGEMENT SYSTEM ===
+1. Add Student Marks
+2. View All Students
+3. Calculate Averages & Grades
+4. Find Top Performers
+5. Generate Performance Report
+6. Exit
+Enter your choice: 4
+
+=== TOP PERFORMERS ===
+alice johnson -> 88.80
+
+=== GRADE MANAGEMENT SYSTEM ===
+1. Add Student Marks
+2. View All Students
+3. Calculate Averages & Grades
+4. Find Top Performers
+5. Generate Performance Report
+6. Exit
+Enter your choice: 5
+
+=== PERFORMANCE REPORT ===
+Total Students: 2
+
+Subject Averages:
+Math: 88.50
+Science: 82.00
+English: 88.50
+History: 84.00
+Computer: 89.50
+
+=== GRADE MANAGEMENT SYSTEM ===
+1. Add Student Marks
+2. View All Students
+3. Calculate Averages & Grades
+4. Find Top Performers
+5. Generate Performance Report
+6. Exit
+Enter your choice: 6
+Thank you for using Grade Management System!
+
+C:\Users\Gauri\OneDrive\Desktop\GradeManagementSystem\src>
